@@ -63,15 +63,25 @@ pip install requirement.txt
 
 ## 二·如果你需要修改文件，下面是对于工程文件的介绍：
 TBA(只提及必要介绍文件)
+
 ├─database(文件夹)
+
 ├─pngs(文件夹)
+
 ├─tmps(文件夹)
+
 ├─menu.py
+
 ├─lesson_cht.py
+
 ├─TBA_cht.py
+
 ├─TBA_en.py
+
 ├─builder.py
+
 ├─get.py
+
 └─adb.exe
 
 
@@ -105,7 +115,7 @@ TBA(只提及必要介绍文件)
 ##### adb.exe
 连接模拟器和脚本的“桥梁”，比较懒，所以就放在这了QAQ
 
-#####目前已存bug
+##### 目前已存bug
 前端偶尔会出现格式问题(具体表现为字体大一号)，但是不影响使用
 
 
